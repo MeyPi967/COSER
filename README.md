@@ -5,4 +5,4 @@ Hello my boi, wassup?
 Now that's a good question, you may continue reading this wonderful README.markdown
 
 ## Okay
-Yes very muchs so indeed that's right
+Yes very much so indeed that's right
